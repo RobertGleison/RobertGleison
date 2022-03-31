@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 <!--
-**RobertGleison/RobertGleison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am a back-end developer in formation, and love learning new tech.
 
-Here are some ideas to get you started:
+Detailed information
+-Name: Robert Gleison dos Reis Pereira
+-Age: 21
+-Living in: Pará de Minas - MG, Brazil
+-Stack: Java
+-Learning: MySQL
+-University: UFV - Universidade Federal de Viçosa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Curiosities about me:
+- I love Table RPG and card games Magic, the Gathering
+
 -->
