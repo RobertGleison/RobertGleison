@@ -19,7 +19,8 @@
 * Desenvolvedor em formação (...⏳)
 * Amante de tecnologia, RPG de mesa, Magic: the Gathering e Rap nacional
 
-![I_single](https://user-images.githubusercontent.com/79045055/161173218-38257427-0a25-4639-a333-79e4f236acdf.png)
+<img align='right' src="https://user-images.githubusercontent.com/79045055/161173218-38257427-0a25-4639-a333-79e4f236acdf.png" width="230">
+
 
 <div align="center">
   <a href="https://github.com/RobertGleison">
