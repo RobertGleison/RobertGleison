@@ -1,4 +1,14 @@
+
+
+  <h3 align="Left">Oi! Meu nome é Robert</h3>
+  <h3 align="center"></h3>
+  
+* Desenvolvedor em formação (...⏳).
+* Amante de tecnologia, RPG de mesa, Magic: the Gathering.
+
 <p align="center">
+Find me:
+  <p align="center">
   
   <a href="https://www.instagram.com/robert_r.g/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -13,14 +23,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 
-  <h3 align="Center">Oi! Meu nome é Robert</h3>
-  <h3 align="center"></h3>
-  
-* Desenvolvedor em formação (...⏳).
-* Amante de tecnologia, RPG de mesa, Magic: the Gathering.
 
-
-<img align='right' src="https://user-images.githubusercontent.com/79045055/161173218-38257427-0a25-4639-a333-79e4f236acdf.png" width="230">
+<h2 align="center">Estatísticas:</h4>
+<img align='right' src="https://user-images.githubusercontent.com/79045055/161173218-38257427-0a25-4639-a333-79e4f236acdf.png" width="280">
 
 
 <div align="Left">
@@ -30,3 +35,4 @@
     
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGleison&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
