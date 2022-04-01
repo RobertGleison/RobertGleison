@@ -19,9 +19,11 @@
 * Desenvolvedor em formação (...⏳)
 * Amante de tecnologia, RPG de mesa, Magic: the Gathering e Rap nacional
 
+![I_single](https://user-images.githubusercontent.com/79045055/161173218-38257427-0a25-4639-a333-79e4f236acdf.png)
 
 <div align="center">
   <a href="https://github.com/RobertGleison">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RobertGleison&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGleison&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
