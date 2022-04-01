@@ -1,14 +1,15 @@
 
 
-  <h3 align="Left">Oi! Meu nome é Robert</h3>
+  <h3 align="Left">Hello there! I am Robert!</h3>
+
   <h3 align="center"></h3>
   
-* Desenvolvedor em formação (...⏳).
-* Amante de tecnologia, RPG de mesa, Magic: the Gathering.
+1. Developer in development ⏳.
+2. I Love tech, RPG and Magic the Gathering.
 
-<p align="center">
+<p align="Left">
 Find me:
-  <p align="center">
+  <p align="Left">
   
   <a href="https://www.instagram.com/robert_r.g/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,15 +25,15 @@ Find me:
  
 
 
-<h2 align="center">Estatísticas:</h4>
+<h2 align="center">Some account details:</h4>
 <img align='right' src="https://user-images.githubusercontent.com/79045055/161173218-38257427-0a25-4639-a333-79e4f236acdf.png" width="280">
 
 
 <div align="Left">
   <a href="https://github.com/RobertGleison">
-  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=RobertGleison&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=RobertGleison&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
    
     
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGleison&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGleison&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
