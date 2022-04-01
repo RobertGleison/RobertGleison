@@ -25,7 +25,8 @@ Find me:
  
 
 
-<h2 align="center">Some account details:</h4>
+<h3 align="center">Some account details</h3>
+<h2> </h2>
 <img align='right' src="https://user-images.githubusercontent.com/79045055/161173218-38257427-0a25-4639-a333-79e4f236acdf.png" width="280">
 
 
