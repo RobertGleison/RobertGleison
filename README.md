@@ -1,11 +1,12 @@
 
 
-  <h3 align="Left">Hello there! I am Robert!</h3>
+  <h3 align="Left">   Hello there! I am Robert!</h3>
 
   <h3 align="center"></h3>
   
-1. Developer in development ⏳.
-2. I Love tech, RPG and Magic the Gathering.
+- Developer in development ⏳.
+- Technologies and RPG's.
+- Github for some practice stuff.
 
 <p align="Left">
 Find me:
@@ -27,7 +28,7 @@ Find me:
 
 <h3 align="center">Some account details</h3>
 <h2> </h2>
-<img align='right' src="https://user-images.githubusercontent.com/79045055/161173218-38257427-0a25-4639-a333-79e4f236acdf.png" width="280">
+<img align='right' src="https://user-images.githubusercontent.com/79045055/161173218-38257427-0a25-4639-a333-79e4f236acdf.png" width="180">
 
 
 <div align="Left">
