@@ -28,7 +28,7 @@ Find me:
 
 <h3 align="center">Some account details</h3>
 <h2> </h2>
-<img align='right' src="https://user-images.githubusercontent.com/79045055/161173218-38257427-0a25-4639-a333-79e4f236acdf.png" width="280">
+<img align='left' src="https://user-images.githubusercontent.com/79045055/161173218-38257427-0a25-4639-a333-79e4f236acdf.png" width="280">
 
 
 <div align="Left">
@@ -36,6 +36,6 @@ Find me:
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RobertGleison&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    
     
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGleison&layout=compact&langs_count=7&theme=dark"/>
+  <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGleison&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
