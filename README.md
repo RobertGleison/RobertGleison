@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is my Github account for training and pratice projects.
 
 <!--
 **RobertGleison/RobertGleison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
