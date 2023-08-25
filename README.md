@@ -1,4 +1,4 @@
-<h1 align="center">Hello, i'm Robert Gleison</h1>
+<h1 align="center">Robert Gleison</h1>
 <h3 align="center">IA and Data Science Student</h3>
 
 
