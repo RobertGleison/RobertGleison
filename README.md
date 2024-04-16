@@ -10,6 +10,8 @@
 <a href="https://www.instagram.com/robert_r.g/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/robert_r.g/" height="30" width="40" /></a>
 </p>
 
-
-
-
+<div align="center">
+  
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGleison&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
