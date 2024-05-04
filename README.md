@@ -5,7 +5,7 @@
 <p align="center">Github only for training and praticing.</p>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGleison&layout=compact&langs_count=20&theme=tokyonight"/>
+<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGleison&layout=compact&langs_count=20&theme=tokyonight"/> -->
 </div>
 
 
