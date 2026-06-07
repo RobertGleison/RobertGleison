@@ -3,6 +3,4 @@
 Welcome to my profile!
 I'm Robert. Data Engineer but I like to study infrastructure and system design.
 
-I'm also have some articles here: [robertech.dev](https://robertech.dev/) (finishing...)
-
 
